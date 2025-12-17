@@ -5,6 +5,7 @@ The app focuses on a clean UI, smooth navigation, and a simple food ordering exp
 
 This project is mainly created for learning purposes and to practice modern Android development concepts.
 
+
 ✨ Features
 
 Splash screen with login status check
@@ -18,6 +19,8 @@ ViewModel-based architecture
 Clean and readable code structure
 
 Material 3 components
+
+
 
 🛠 Tech Stack
 
@@ -41,6 +44,8 @@ Register Screen
 
 Dashboard (Home)
 
+
+
 🚀 Getting Started
 
 Clone the repository
@@ -54,6 +59,8 @@ Sync Gradle files
 
 Run the app on an emulator or physical device
 
+
+
 🎯 Purpose
 
 This project was built to:
@@ -66,6 +73,8 @@ Practice ViewModel and navigation
 
 Build a real-world style Android app
 
+
+
 📌 Future Improvements
 
 Add food listing and categories
@@ -77,6 +86,8 @@ Firebase backend integration
 Payment integration
 
 Order tracking
+
+
 
 🤝 Contributing
 
