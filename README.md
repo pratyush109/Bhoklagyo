@@ -45,7 +45,7 @@ Dashboard (Home)
 
 Clone the repository
 
-git clone https://github.com/your-username/bhoklagyo.git
+git clone https://github.com/pratyush109/Bhoklagyo.git
 
 
 Open the project in Android Studio
