@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272178660736",
+    "project_id": "bhoklagyo3-b5d6e",
+    "storage_bucket": "bhoklagyo3-b5d6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272178660736:android:e34bc8a97743628682ad65",
+        "android_client_info": {
+          "package_name": "com.example.bhoklagyo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6rkvbXkeafSw5qgMiv2AR4_2RzUfX0Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
