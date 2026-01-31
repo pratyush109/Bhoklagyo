@@ -6,4 +6,10 @@
     <string name="title_activity_forgot_passsword">ForgotPassswordActivity</string>
     <string name="title_activity_dashboard">DashboardActivity</string>
     <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_home_screen.kt">HomeScreen.kt</string>
+    <string name="title_activity_cart_screen">CartScreen</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+    <string name="title_activity_notification_screen">NotificationScreen</string>
 </resources>
