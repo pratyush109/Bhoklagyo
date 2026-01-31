@@ -1,5 +1,6 @@
 package com.example.bhoklagyo
 
+import android.annotation.SuppressLint
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.ComponentActivity
@@ -17,6 +18,7 @@ import com.example.bhoklagyo.ui.theme.White
 import com.example.bhoklagyo.viewmodel.AuthViewModel
 
 class ForgotPasswordActivity : ComponentActivity() {
+    @SuppressLint("ViewModelConstructorInComposable")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
